@@ -1,5 +1,9 @@
 # ◎ TribeV2 Neural Intelligence Engine
 
+<p align="center">
+  <img src="dashboard/public/tribev2_demo.webp" alt="TribeV2 Dashboard Overview" style="width: 100%; border-radius: 8px;" />
+</p>
+
 
 **TribeV2** is a high-fidelity, deterministic neuromarketing analytics dashboard. It simulates and visualizes predicted human neural activation during video stimulus, leveraging a simulated cognitive data pipeline. The application fuses responsive React UI with a real-time 3D WebGL cortical rendering system to provide deep-tech insights into audience engagement.
 
