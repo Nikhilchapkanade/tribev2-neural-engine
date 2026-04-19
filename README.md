@@ -1,7 +1,11 @@
 # ◎ TribeV2 Neural Intelligence Engine
 
 <p align="center">
-  <img src="dashboard/public/tribev2_demo.webp" alt="TribeV2 Dashboard Overview" style="width: 100%; border-radius: 8px;" />
+
+
+https://github.com/user-attachments/assets/f7352134-152f-4b7d-be0a-08fcd1f27083
+
+
 </p>
 
 
