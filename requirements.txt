@@ -1,0 +1,10 @@
+langgraph
+langchain-ollama
+langchain-core
+requests
+pydantic
+# For Phase 1 Kaggle Script execution locally (optional):
+opencv-python
+torch
+transformers
+accelerate

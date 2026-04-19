@@ -1,0 +1,50 @@
+{
+  "total_vertices": 327684,
+  "n_left_hemisphere": 163842,
+  "regions": {
+    "0": {
+      "name": "visual",
+      "label": "Visual Cortex",
+      "edtech_label": "Visual Processing"
+    },
+    "1": {
+      "name": "somatomotor",
+      "label": "Somatomotor",
+      "edtech_label": "Motor Response"
+    },
+    "2": {
+      "name": "dorsal_attention",
+      "label": "Dorsal Attention",
+      "edtech_label": "Sustained Focus"
+    },
+    "3": {
+      "name": "ventral_attention",
+      "label": "Ventral Attention",
+      "edtech_label": "Alertness / Surprise"
+    },
+    "4": {
+      "name": "limbic",
+      "label": "Limbic",
+      "edtech_label": "Emotional Engagement"
+    },
+    "5": {
+      "name": "frontoparietal",
+      "label": "Frontoparietal",
+      "edtech_label": "Working Memory"
+    },
+    "6": {
+      "name": "default_mode",
+      "label": "Default Mode",
+      "edtech_label": "Cognitive Drift"
+    }
+  },
+  "region_counts": {
+    "0": 89728,
+    "1": 13986,
+    "2": 81620,
+    "3": 45267,
+    "4": 37677,
+    "5": 27831,
+    "6": 31575
+  }
+}

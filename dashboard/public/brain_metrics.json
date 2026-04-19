@@ -1,0 +1,13 @@
+[
+    {"timestamp_seconds": 0.0, "ventral_attention_zscore": 0.1, "limbic_zscore": -0.2},
+    {"timestamp_seconds": 1.0, "ventral_attention_zscore": 0.3, "limbic_zscore": -0.1},
+    {"timestamp_seconds": 2.0, "ventral_attention_zscore": 0.5, "limbic_zscore": 0.1},
+    {"timestamp_seconds": 3.0, "ventral_attention_zscore": 0.6, "limbic_zscore": 0.0},
+    {"timestamp_seconds": 4.0, "ventral_attention_zscore": 2.5, "limbic_zscore": 2.1},
+    {"timestamp_seconds": 5.0, "ventral_attention_zscore": 2.2, "limbic_zscore": 1.9},
+    {"timestamp_seconds": 6.0, "ventral_attention_zscore": 2.8, "limbic_zscore": 2.6},
+    {"timestamp_seconds": 7.0, "ventral_attention_zscore": 1.0, "limbic_zscore": 0.8},
+    {"timestamp_seconds": 8.0, "ventral_attention_zscore": 0.5, "limbic_zscore": 0.2},
+    {"timestamp_seconds": 9.0, "ventral_attention_zscore": 0.2, "limbic_zscore": 0.0},
+    {"timestamp_seconds": 10.0, "ventral_attention_zscore": 0.1, "limbic_zscore": -0.1}
+]

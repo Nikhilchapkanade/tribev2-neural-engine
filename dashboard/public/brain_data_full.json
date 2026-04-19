@@ -1,0 +1,1491 @@
+{
+  "frames": [
+    {
+      "timestamp_seconds": 0.0,
+      "networks": {
+        "ventral_attention": {
+          "activation": 0.9748
+        },
+        "limbic": {
+          "activation": 0.1577
+        },
+        "visual": {
+          "activation": 0.7964
+        },
+        "dorsal_attention": {
+          "activation": 0.5589
+        },
+        "somatomotor": {
+          "activation": 0.1181
+        },
+        "frontoparietal": {
+          "activation": 0.4984
+        },
+        "default_mode": {
+          "activation": 0.1223
+        }
+      },
+      "global_mean": 0.461,
+      "peak_activation": 0.9748,
+      "engagement_score": 0.5663,
+      "hemisphere_asymmetry": 0.376
+    },
+    {
+      "timestamp_seconds": 1.0,
+      "networks": {
+        "ventral_attention": {
+          "activation": 0.9431
+        },
+        "limbic": {
+          "activation": 0.2329
+        },
+        "visual": {
+          "activation": 0.9373
+        },
+        "dorsal_attention": {
+          "activation": 0.5295
+        },
+        "somatomotor": {
+          "activation": 0.3799
+        },
+        "frontoparietal": {
+          "activation": 0.4903
+        },
+        "default_mode": {
+          "activation": 0.0743
+        }
+      },
+      "global_mean": 0.5125,
+      "peak_activation": 0.9431,
+      "engagement_score": 0.588,
+      "hemisphere_asymmetry": 0.416
+    },
+    {
+      "timestamp_seconds": 2.0,
+      "networks": {
+        "ventral_attention": {
+          "activation": 0.9824
+        },
+        "limbic": {
+          "activation": 0.1513
+        },
+        "visual": {
+          "activation": 0.9848
+        },
+        "dorsal_attention": {
+          "activation": 0.83
+        },
+        "somatomotor": {
+          "activation": 0.3533
+        },
+        "frontoparietal": {
+          "activation": 0.5001
+        },
+        "default_mode": {
+          "activation": 0.1343
+        }
+      },
+      "global_mean": 0.5623,
+      "peak_activation": 0.9848,
+      "engagement_score": 0.5668,
+      "hemisphere_asymmetry": 0.3658
+    },
+    {
+      "timestamp_seconds": 3.0,
+      "networks": {
+        "ventral_attention": {
+          "activation": 0.2262
+        },
+        "limbic": {
+          "activation": 0.2087
+        },
+        "visual": {
+          "activation": 0.9996
+        },
+        "dorsal_attention": {
+          "activation": 0.8363
+        },
+        "somatomotor": {
+          "activation": 0.4419
+        },
+        "frontoparietal": {
+          "activation": 0.3744
+        },
+        "default_mode": {
+          "activation": 0.1424
+        }
+      },
+      "global_mean": 0.4614,
+      "peak_activation": 0.9996,
+      "engagement_score": 0.2174,
+      "hemisphere_asymmetry": 0.232
+    },
+    {
+      "timestamp_seconds": 4.0,
+      "networks": {
+        "ventral_attention": {
+          "activation": 0.1383
+        },
+        "limbic": {
+          "activation": 0.1228
+        },
+        "visual": {
+          "activation": 1.0952
+        },
+        "dorsal_attention": {
+          "activation": 0.8133
+        },
+        "somatomotor": {
+          "activation": 0.1853
+        },
+        "frontoparietal": {
+          "activation": 0.3094
+        },
+        "default_mode": {
+          "activation": 0.1633
+        }
+      },
+      "global_mean": 0.404,
+      "peak_activation": 1.0952,
+      "engagement_score": 0.1305,
+      "hemisphere_asymmetry": 0.1461
+    },
+    {
+      "timestamp_seconds": 5.0,
+      "networks": {
+        "ventral_attention": {
+          "activation": 0.1383
+        },
+        "limbic": {
+          "activation": 0.1502
+        },
+        "visual": {
+          "activation": 0.8755
+        },
+        "dorsal_attention": {
+          "activation": 0.8269
+        },
+        "somatomotor": {
+          "activation": 0.211
+        },
+        "frontoparietal": {
+          "activation": 0.2571
+        },
+        "default_mode": {
+          "activation": 0.3622
+        }
+      },
+      "global_mean": 0.403,
+      "peak_activation": 0.8755,
+      "engagement_score": 0.1443,
+      "hemisphere_asymmetry": -0.105
+    },
+    {
+      "timestamp_seconds": 6.0,
+      "networks": {
+        "ventral_attention": {
+          "activation": 0.229
+        },
+        "limbic": {
+          "activation": 0.2166
+        },
+        "visual": {
+          "activation": 0.7924
+        },
+        "dorsal_attention": {
+          "activation": 0.8304
+        },
+        "somatomotor": {
+          "activation": 0.2553
+        },
+        "frontoparietal": {
+          "activation": 0.2136
+        },
+        "default_mode": {
+          "activation": 0.2649
+        }
+      },
+      "global_mean": 0.4003,
+      "peak_activation": 0.8304,
+      "engagement_score": 0.2228,
+      "hemisphere_asymmetry": -0.0513
+    },
+    {
+      "timestamp_seconds": 7.0,
+      "networks": {
+        "ventral_attention": {
+          "activation": 0.1884
+        },
+        "limbic": {
+          "activation": 0.2499
+        },
+        "visual": {
+          "activation": 0.8428
+        },
+        "dorsal_attention": {
+          "activation": 0.8643
+        },
+        "somatomotor": {
+          "activation": 0.2022
+        },
+        "frontoparietal": {
+          "activation": 0.1997
+        },
+        "default_mode": {
+          "activation": 0.2825
+        }
+      },
+      "global_mean": 0.4042,
+      "peak_activation": 0.8643,
+      "engagement_score": 0.2191,
+      "hemisphere_asymmetry": -0.0828
+    },
+    {
+      "timestamp_seconds": 8.0,
+      "networks": {
+        "ventral_attention": {
+          "activation": 0.6265
+        },
+        "limbic": {
+          "activation": 0.25
+        },
+        "visual": {
+          "activation": 0.5811
+        },
+        "dorsal_attention": {
+          "activation": 0.765
+        },
+        "somatomotor": {
+          "activation": 0.2519
+        },
+        "frontoparietal": {
+          "activation": 0.1783
+        },
+        "default_mode": {
+          "activation": 0.1406
+        }
+      },
+      "global_mean": 0.3991,
+      "peak_activation": 0.765,
+      "engagement_score": 0.4383,
+      "hemisphere_asymmetry": 0.0377
+    },
+    {
+      "timestamp_seconds": 9.0,
+      "networks": {
+        "ventral_attention": {
+          "activation": 0.6771
+        },
+        "limbic": {
+          "activation": 0.278
+        },
+        "visual": {
+          "activation": 0.6825
+        },
+        "dorsal_attention": {
+          "activation": 0.7335
+        },
+        "somatomotor": {
+          "activation": 0.288
+        },
+        "frontoparietal": {
+          "activation": 0.1451
+        },
+        "default_mode": {
+          "activation": 0.1406
+        }
+      },
+      "global_mean": 0.4207,
+      "peak_activation": 0.7335,
+      "engagement_score": 0.4776,
+      "hemisphere_asymmetry": 0.0045
+    },
+    {
+      "timestamp_seconds": 10.0,
+      "networks": {
+        "ventral_attention": {
+          "activation": 0.1268
+        },
+        "limbic": {
+          "activation": 0.7312
+        },
+        "visual": {
+          "activation": 0.5629
+        },
+        "dorsal_attention": {
+          "activation": 0.6825
+        },
+        "somatomotor": {
+          "activation": 0.2018
+        },
+        "frontoparietal": {
+          "activation": 0.1456
+        },
+        "default_mode": {
+          "activation": 0.1406
+        }
+      },
+      "global_mean": 0.3702,
+      "peak_activation": 0.7312,
+      "engagement_score": 0.429,
+      "hemisphere_asymmetry": 0.005
+    },
+    {
+      "timestamp_seconds": 11.0,
+      "networks": {
+        "ventral_attention": {
+          "activation": 0.1267
+        },
+        "limbic": {
+          "activation": 0.7655
+        },
+        "visual": {
+          "activation": 0.4556
+        },
+        "dorsal_attention": {
+          "activation": 0.5696
+        },
+        "somatomotor": {
+          "activation": 0.2543
+        },
+        "frontoparietal": {
+          "activation": 0.102
+        },
+        "default_mode": {
+          "activation": 0.2741
+        }
+      },
+      "global_mean": 0.364,
+      "peak_activation": 0.7655,
+      "engagement_score": 0.4461,
+      "hemisphere_asymmetry": -0.1721
+    },
+    {
+      "timestamp_seconds": 12.0,
+      "networks": {
+        "ventral_attention": {
+          "activation": 0.1621
+        },
+        "limbic": {
+          "activation": 0.89
+        },
+        "visual": {
+          "activation": 0.3898
+        },
+        "dorsal_attention": {
+          "activation": 0.6063
+        },
+        "somatomotor": {
+          "activation": 0.2529
+        },
+        "frontoparietal": {
+          "activation": 0.1595
+        },
+        "default_mode": {
+          "activation": 0.1428
+        }
+      },
+      "global_mean": 0.3719,
+      "peak_activation": 0.89,
+      "engagement_score": 0.5261,
+      "hemisphere_asymmetry": 0.0166
+    },
+    {
+      "timestamp_seconds": 13.0,
+      "networks": {
+        "ventral_attention": {
+          "activation": 0.0543
+        },
+        "limbic": {
+          "activation": 0.9909
+        },
+        "visual": {
+          "activation": 0.2103
+        },
+        "dorsal_attention": {
+          "activation": 0.5725
+        },
+        "somatomotor": {
+          "activation": 0.2626
+        },
+        "frontoparietal": {
+          "activation": 0.1016
+        },
+        "default_mode": {
+          "activation": 0.1654
+        }
+      },
+      "global_mean": 0.3368,
+      "peak_activation": 0.9909,
+      "engagement_score": 0.5226,
+      "hemisphere_asymmetry": -0.0638
+    },
+    {
+      "timestamp_seconds": 14.0,
+      "networks": {
+        "ventral_attention": {
+          "activation": 0.0638
+        },
+        "limbic": {
+          "activation": 0.7179
+        },
+        "visual": {
+          "activation": 0.2396
+        },
+        "dorsal_attention": {
+          "activation": 0.6344
+        },
+        "somatomotor": {
+          "activation": 0.1938
+        },
+        "frontoparietal": {
+          "activation": 0.2422
+        },
+        "default_mode": {
+          "activation": 0.1582
+        }
+      },
+      "global_mean": 0.3214,
+      "peak_activation": 0.7179,
+      "engagement_score": 0.3908,
+      "hemisphere_asymmetry": 0.084
+    },
+    {
+      "timestamp_seconds": 15.0,
+      "networks": {
+        "ventral_attention": {
+          "activation": 0.8719
+        },
+        "limbic": {
+          "activation": 0.7137
+        },
+        "visual": {
+          "activation": 0.2308
+        },
+        "dorsal_attention": {
+          "activation": 0.4983
+        },
+        "somatomotor": {
+          "activation": 0.1811
+        },
+        "frontoparietal": {
+          "activation": 0.1889
+        },
+        "default_mode": {
+          "activation": 0.1461
+        }
+      },
+      "global_mean": 0.4044,
+      "peak_activation": 0.8719,
+      "engagement_score": 0.7928,
+      "hemisphere_asymmetry": 0.0428
+    },
+    {
+      "timestamp_seconds": 16.0,
+      "networks": {
+        "ventral_attention": {
+          "activation": 0.8494
+        },
+        "limbic": {
+          "activation": 0.6051
+        },
+        "visual": {
+          "activation": 0.2739
+        },
+        "dorsal_attention": {
+          "activation": 0.4938
+        },
+        "somatomotor": {
+          "activation": 0.2244
+        },
+        "frontoparietal": {
+          "activation": 0.1675
+        },
+        "default_mode": {
+          "activation": 0.1074
+        }
+      },
+      "global_mean": 0.3888,
+      "peak_activation": 0.8494,
+      "engagement_score": 0.7272,
+      "hemisphere_asymmetry": 0.0601
+    },
+    {
+      "timestamp_seconds": 17.0,
+      "networks": {
+        "ventral_attention": {
+          "activation": 0.9157
+        },
+        "limbic": {
+          "activation": 0.6223
+        },
+        "visual": {
+          "activation": 0.187
+        },
+        "dorsal_attention": {
+          "activation": 0.4625
+        },
+        "somatomotor": {
+          "activation": 0.2043
+        },
+        "frontoparietal": {
+          "activation": 0.2023
+        },
+        "default_mode": {
+          "activation": 0.1504
+        }
+      },
+      "global_mean": 0.3921,
+      "peak_activation": 0.9157,
+      "engagement_score": 0.769,
+      "hemisphere_asymmetry": 0.052
+    },
+    {
+      "timestamp_seconds": 18.0,
+      "networks": {
+        "ventral_attention": {
+          "activation": 0.1046
+        },
+        "limbic": {
+          "activation": 0.5034
+        },
+        "visual": {
+          "activation": 0.5601
+        },
+        "dorsal_attention": {
+          "activation": 0.1564
+        },
+        "somatomotor": {
+          "activation": 0.3384
+        },
+        "frontoparietal": {
+          "activation": 0.3109
+        },
+        "default_mode": {
+          "activation": 0.0891
+        }
+      },
+      "global_mean": 0.2947,
+      "peak_activation": 0.5601,
+      "engagement_score": 0.304,
+      "hemisphere_asymmetry": 0.2218
+    },
+    {
+      "timestamp_seconds": 19.0,
+      "networks": {
+        "ventral_attention": {
+          "activation": 0.0794
+        },
+        "limbic": {
+          "activation": 0.3976
+        },
+        "visual": {
+          "activation": 0.6346
+        },
+        "dorsal_attention": {
+          "activation": 0.2457
+        },
+        "somatomotor": {
+          "activation": 0.326
+        },
+        "frontoparietal": {
+          "activation": 0.3295
+        },
+        "default_mode": {
+          "activation": 0.1105
+        }
+      },
+      "global_mean": 0.3033,
+      "peak_activation": 0.6346,
+      "engagement_score": 0.2385,
+      "hemisphere_asymmetry": 0.219
+    },
+    {
+      "timestamp_seconds": 20.0,
+      "networks": {
+        "ventral_attention": {
+          "activation": 1.1233
+        },
+        "limbic": {
+          "activation": 0.8677
+        },
+        "visual": {
+          "activation": 0.781
+        },
+        "dorsal_attention": {
+          "activation": 0.2347
+        },
+        "somatomotor": {
+          "activation": 0.2796
+        },
+        "frontoparietal": {
+          "activation": 0.4118
+        },
+        "default_mode": {
+          "activation": 0.1006
+        }
+      },
+      "global_mean": 0.5427,
+      "peak_activation": 1.1233,
+      "engagement_score": 0.9955,
+      "hemisphere_asymmetry": 0.3112
+    },
+    {
+      "timestamp_seconds": 21.0,
+      "networks": {
+        "ventral_attention": {
+          "activation": 1.0387
+        },
+        "limbic": {
+          "activation": 0.8239
+        },
+        "visual": {
+          "activation": 0.837
+        },
+        "dorsal_attention": {
+          "activation": 0.2483
+        },
+        "somatomotor": {
+          "activation": 0.1413
+        },
+        "frontoparietal": {
+          "activation": 0.4423
+        },
+        "default_mode": {
+          "activation": 0.1233
+        }
+      },
+      "global_mean": 0.5221,
+      "peak_activation": 1.0387,
+      "engagement_score": 0.9313,
+      "hemisphere_asymmetry": 0.319
+    },
+    {
+      "timestamp_seconds": 22.0,
+      "networks": {
+        "ventral_attention": {
+          "activation": 0.1534
+        },
+        "limbic": {
+          "activation": 0.7804
+        },
+        "visual": {
+          "activation": 0.532
+        },
+        "dorsal_attention": {
+          "activation": 0.1994
+        },
+        "somatomotor": {
+          "activation": 0.1279
+        },
+        "frontoparietal": {
+          "activation": 0.9038
+        },
+        "default_mode": {
+          "activation": 0.2126
+        }
+      },
+      "global_mean": 0.4156,
+      "peak_activation": 0.9038,
+      "engagement_score": 0.4669,
+      "hemisphere_asymmetry": 0.6912
+    },
+    {
+      "timestamp_seconds": 23.0,
+      "networks": {
+        "ventral_attention": {
+          "activation": 0.0788
+        },
+        "limbic": {
+          "activation": 0.6868
+        },
+        "visual": {
+          "activation": 0.6671
+        },
+        "dorsal_attention": {
+          "activation": 0.3173
+        },
+        "somatomotor": {
+          "activation": 0.0832
+        },
+        "frontoparietal": {
+          "activation": 0.8975
+        },
+        "default_mode": {
+          "activation": 0.0453
+        }
+      },
+      "global_mean": 0.3966,
+      "peak_activation": 0.8975,
+      "engagement_score": 0.3828,
+      "hemisphere_asymmetry": 0.8522
+    },
+    {
+      "timestamp_seconds": 24.0,
+      "networks": {
+        "ventral_attention": {
+          "activation": 0.1228
+        },
+        "limbic": {
+          "activation": 0.6963
+        },
+        "visual": {
+          "activation": 0.717
+        },
+        "dorsal_attention": {
+          "activation": 0.2359
+        },
+        "somatomotor": {
+          "activation": 0.1472
+        },
+        "frontoparietal": {
+          "activation": 0.8855
+        },
+        "default_mode": {
+          "activation": 0.1475
+        }
+      },
+      "global_mean": 0.4217,
+      "peak_activation": 0.8855,
+      "engagement_score": 0.4096,
+      "hemisphere_asymmetry": 0.738
+    },
+    {
+      "timestamp_seconds": 25.0,
+      "networks": {
+        "ventral_attention": {
+          "activation": 0.1555
+        },
+        "limbic": {
+          "activation": 0.2166
+        },
+        "visual": {
+          "activation": 0.813
+        },
+        "dorsal_attention": {
+          "activation": 0.3503
+        },
+        "somatomotor": {
+          "activation": 0.0935
+        },
+        "frontoparietal": {
+          "activation": 0.932
+        },
+        "default_mode": {
+          "activation": 0.0555
+        }
+      },
+      "global_mean": 0.3738,
+      "peak_activation": 0.932,
+      "engagement_score": 0.1861,
+      "hemisphere_asymmetry": 0.8765
+    },
+    {
+      "timestamp_seconds": 26.0,
+      "networks": {
+        "ventral_attention": {
+          "activation": 0.0925
+        },
+        "limbic": {
+          "activation": 0.2402
+        },
+        "visual": {
+          "activation": 0.7591
+        },
+        "dorsal_attention": {
+          "activation": 0.3522
+        },
+        "somatomotor": {
+          "activation": 0.0334
+        },
+        "frontoparietal": {
+          "activation": 0.9769
+        },
+        "default_mode": {
+          "activation": 0.4011
+        }
+      },
+      "global_mean": 0.4079,
+      "peak_activation": 0.9769,
+      "engagement_score": 0.1663,
+      "hemisphere_asymmetry": 0.5758
+    },
+    {
+      "timestamp_seconds": 27.0,
+      "networks": {
+        "ventral_attention": {
+          "activation": 0.8688
+        },
+        "limbic": {
+          "activation": 0.1812
+        },
+        "visual": {
+          "activation": 1.0322
+        },
+        "dorsal_attention": {
+          "activation": 0.264
+        },
+        "somatomotor": {
+          "activation": 0.0806
+        },
+        "frontoparietal": {
+          "activation": 0.9333
+        },
+        "default_mode": {
+          "activation": 0.4636
+        }
+      },
+      "global_mean": 0.5462,
+      "peak_activation": 1.0322,
+      "engagement_score": 0.525,
+      "hemisphere_asymmetry": 0.4698
+    },
+    {
+      "timestamp_seconds": 28.0,
+      "networks": {
+        "ventral_attention": {
+          "activation": 0.82
+        },
+        "limbic": {
+          "activation": 0.1927
+        },
+        "visual": {
+          "activation": 1.0076
+        },
+        "dorsal_attention": {
+          "activation": 0.3199
+        },
+        "somatomotor": {
+          "activation": 0.0257
+        },
+        "frontoparietal": {
+          "activation": 0.3974
+        },
+        "default_mode": {
+          "activation": 0.4226
+        }
+      },
+      "global_mean": 0.4551,
+      "peak_activation": 1.0076,
+      "engagement_score": 0.5063,
+      "hemisphere_asymmetry": -0.0252
+    },
+    {
+      "timestamp_seconds": 29.0,
+      "networks": {
+        "ventral_attention": {
+          "activation": 0.1354
+        },
+        "limbic": {
+          "activation": 0.4558
+        },
+        "visual": {
+          "activation": 0.9087
+        },
+        "dorsal_attention": {
+          "activation": 0.3839
+        },
+        "somatomotor": {
+          "activation": 0.0748
+        },
+        "frontoparietal": {
+          "activation": 0.9685
+        },
+        "default_mode": {
+          "activation": 0.3769
+        }
+      },
+      "global_mean": 0.472,
+      "peak_activation": 0.9685,
+      "engagement_score": 0.2956,
+      "hemisphere_asymmetry": 0.5916
+    },
+    {
+      "timestamp_seconds": 30.0,
+      "networks": {
+        "ventral_attention": {
+          "activation": 0.1199
+        },
+        "limbic": {
+          "activation": 0.4522
+        },
+        "visual": {
+          "activation": 0.6815
+        },
+        "dorsal_attention": {
+          "activation": 0.394
+        },
+        "somatomotor": {
+          "activation": 0.0848
+        },
+        "frontoparietal": {
+          "activation": 0.9352
+        },
+        "default_mode": {
+          "activation": 0.3914
+        }
+      },
+      "global_mean": 0.437,
+      "peak_activation": 0.9352,
+      "engagement_score": 0.286,
+      "hemisphere_asymmetry": 0.5438
+    },
+    {
+      "timestamp_seconds": 31.0,
+      "networks": {
+        "ventral_attention": {
+          "activation": 0.8426
+        },
+        "limbic": {
+          "activation": 0.5325
+        },
+        "visual": {
+          "activation": 0.6001
+        },
+        "dorsal_attention": {
+          "activation": 0.382
+        },
+        "somatomotor": {
+          "activation": 0.0266
+        },
+        "frontoparietal": {
+          "activation": 0.8387
+        },
+        "default_mode": {
+          "activation": 0.4472
+        }
+      },
+      "global_mean": 0.5242,
+      "peak_activation": 0.8426,
+      "engagement_score": 0.6876,
+      "hemisphere_asymmetry": 0.3915
+    },
+    {
+      "timestamp_seconds": 32.0,
+      "networks": {
+        "ventral_attention": {
+          "activation": 0.7493
+        },
+        "limbic": {
+          "activation": 0.5542
+        },
+        "visual": {
+          "activation": 0.5003
+        },
+        "dorsal_attention": {
+          "activation": 0.471
+        },
+        "somatomotor": {
+          "activation": 0.0838
+        },
+        "frontoparietal": {
+          "activation": 0.2832
+        },
+        "default_mode": {
+          "activation": 0.3908
+        }
+      },
+      "global_mean": 0.4332,
+      "peak_activation": 0.7493,
+      "engagement_score": 0.6518,
+      "hemisphere_asymmetry": -0.1076
+    }
+  ],
+  "demographics": {
+    "scores": {
+      "Gen Z": {
+        "Visual": 0.826,
+        "Auditory": 0.711,
+        "Reward": 0.86,
+        "Memory": 0.714,
+        "Attention": 0.929,
+        "Narrative": 0.669,
+        "Personal": 0.856,
+        "Action": 0.77
+      },
+      "Adults": {
+        "Visual": 0.766,
+        "Auditory": 0.656,
+        "Reward": 0.717,
+        "Memory": 0.795,
+        "Attention": 0.786,
+        "Narrative": 0.774,
+        "Personal": 0.68,
+        "Action": 0.636
+      },
+      "Kids": {
+        "Visual": 0.87,
+        "Auditory": 0.603,
+        "Reward": 0.942,
+        "Memory": 0.382,
+        "Attention": 0.868,
+        "Narrative": 0.644,
+        "Personal": 0.801,
+        "Action": 0.864
+      },
+      "Older": {
+        "Visual": 0.595,
+        "Auditory": 0.768,
+        "Reward": 0.559,
+        "Memory": 0.833,
+        "Attention": 0.653,
+        "Narrative": 0.822,
+        "Personal": 0.718,
+        "Action": 0.443
+      }
+    },
+    "trajectories": {
+      "Gen Z": [
+        0.5454,
+        0.6595,
+        0.6519,
+        0.585,
+        0.5528,
+        0.5459,
+        0.6017,
+        0.4814,
+        0.6041,
+        0.5089,
+        0.4675,
+        0.4398,
+        0.3705,
+        0.2456,
+        0.3351,
+        0.2294,
+        0.3174,
+        0.249,
+        0.2231,
+        0.2468,
+        0.0936,
+        0.1062,
+        0.1698,
+        0.2394,
+        0.233,
+        0.2774,
+        0.34,
+        0.4435,
+        0.512,
+        0.5122,
+        0.5586,
+        0.5401,
+        0.6214
+      ],
+      "Adults": [
+        0.5129,
+        0.4649,
+        0.453,
+        0.3174,
+        0.3019,
+        0.2129,
+        0.1578,
+        0.1624,
+        0.1117,
+        0.0814,
+        0.0823,
+        0.0238,
+        0.0551,
+        0.0322,
+        0.0855,
+        0.1053,
+        0.1611,
+        0.2345,
+        0.2363,
+        0.4136,
+        0.3508,
+        0.4014,
+        0.5508,
+        0.5842,
+        0.6172,
+        0.6472,
+        0.6404,
+        0.6121,
+        0.6461,
+        0.5993,
+        0.6375,
+        0.5545,
+        0.4807
+      ],
+      "Kids": [
+        0.6085,
+        0.604,
+        0.6098,
+        0.5801,
+        0.5253,
+        0.4524,
+        0.2971,
+        0.2057,
+        0.219,
+        0.0366,
+        0.1549,
+        0.0688,
+        0.0761,
+        0.0435,
+        0.0587,
+        0.0978,
+        0.0666,
+        0.0556,
+        0.0591,
+        0.0416,
+        0.1331,
+        0.2373,
+        0.3593,
+        0.4277,
+        0.532,
+        0.5581,
+        0.5673,
+        0.6674,
+        0.5972,
+        0.5691,
+        0.671,
+        0.6583,
+        0.694
+      ],
+      "Older": [
+        0.7276,
+        0.6302,
+        0.6445,
+        0.6621,
+        0.6011,
+        0.6572,
+        0.6324,
+        0.6462,
+        0.6252,
+        0.6529,
+        0.5785,
+        0.4776,
+        0.4242,
+        0.4401,
+        0.3301,
+        0.4224,
+        0.3677,
+        0.2792,
+        0.2138,
+        0.3286,
+        0.1698,
+        0.2318,
+        0.134,
+        0.1963,
+        0.2491,
+        0.2845,
+        0.302,
+        0.3847,
+        0.3576,
+        0.4344,
+        0.4824,
+        0.5319,
+        0.5684
+      ]
+    }
+  },
+  "peak_scenes": [
+    {
+      "rank": 1,
+      "timestamp": 20,
+      "peak_intensity": 0.9747,
+      "hook_score": 1.123,
+      "emotion_score": 0.868,
+      "visual_score": 0.781,
+      "label": "Scene",
+      "pct_of_max": 100.0
+    },
+    {
+      "rank": 2,
+      "timestamp": 21,
+      "peak_intensity": 0.8558,
+      "hook_score": 1.039,
+      "emotion_score": 0.824,
+      "visual_score": 0.837,
+      "label": "Scene",
+      "pct_of_max": 87.8
+    },
+    {
+      "rank": 3,
+      "timestamp": 15,
+      "peak_intensity": 0.6223,
+      "hook_score": 0.872,
+      "emotion_score": 0.714,
+      "visual_score": 0.231,
+      "label": "Scene",
+      "pct_of_max": 63.8
+    },
+    {
+      "rank": 4,
+      "timestamp": 17,
+      "peak_intensity": 0.5699,
+      "hook_score": 0.916,
+      "emotion_score": 0.622,
+      "visual_score": 0.187,
+      "label": "Scene",
+      "pct_of_max": 58.5
+    },
+    {
+      "rank": 5,
+      "timestamp": 16,
+      "peak_intensity": 0.5139,
+      "hook_score": 0.849,
+      "emotion_score": 0.605,
+      "visual_score": 0.274,
+      "label": "Scene",
+      "pct_of_max": 52.7
+    },
+    {
+      "rank": 6,
+      "timestamp": 31,
+      "peak_intensity": 0.4487,
+      "hook_score": 0.843,
+      "emotion_score": 0.533,
+      "visual_score": 0.6,
+      "label": "Scene",
+      "pct_of_max": 46.0
+    }
+  ],
+  "global_max_score": 0.9747,
+  "rois": [
+    {
+      "id": "V4",
+      "name": "Visual Area 4",
+      "desc": "Processes color contrast and object boundaries. High activation indicates the visual content has rich chromatic information demanding perceptual parsing.",
+      "score": 0.898
+    },
+    {
+      "id": "TPQJ3",
+      "name": "Temporo-Parietal Junction 3",
+      "desc": "Theory of mind and social cognition. Activation suggests viewers are mentalizing \u2014 trying to understand characters' intentions or social narratives.",
+      "score": 0.856
+    },
+    {
+      "id": "MT+",
+      "name": "Medial Superior Temporal",
+      "desc": "Decodes complex visual motion. Spikes here mean fast camera movements, action sequences, or dynamic scene transitions captured viewer attention.",
+      "score": 0.839
+    },
+    {
+      "id": "V8",
+      "name": "Visual Area 8",
+      "desc": "Face-color processing area. High activation means the ad's faces and skin tones are being deeply encoded \u2014 critical for spokesperson effectiveness.",
+      "score": 0.787
+    },
+    {
+      "id": "STS",
+      "name": "Superior Temporal Sulcus",
+      "desc": "Voice identity and prosody. Tracks how distinctive or emotionally modulated the narrator's voice is.",
+      "score": 0.725
+    },
+    {
+      "id": "IFG",
+      "name": "Inferior Frontal Gyrus",
+      "desc": "Language comprehension and brand name encoding. Activation during taglines indicates successful verbal memory formation.",
+      "score": 0.721
+    },
+    {
+      "id": "AMY",
+      "name": "Amygdala Complex",
+      "desc": "Emotional arousal and threat detection. Spikes indicate the content triggered a strong emotional response \u2014 positive or negative.",
+      "score": 0.642
+    },
+    {
+      "id": "NAcc",
+      "name": "Nucleus Accumbens",
+      "desc": "Reward anticipation. Active when viewers experience desire for the product or positive brand associations.",
+      "score": 0.604
+    }
+  ],
+  "variance_matrix": {
+    "Gen Z": {
+      "V4": 0.271,
+      "MT+": 0.274,
+      "TPQJ3": 0.401,
+      "V8": 0.211,
+      "STS": 0.104,
+      "IFG": 0.062
+    },
+    "Adults": {
+      "V4": 0.352,
+      "MT+": 0.298,
+      "TPQJ3": 0.332,
+      "V8": 0.135,
+      "STS": 0.105,
+      "IFG": 0.056
+    },
+    "Kids": {
+      "V4": 0.19,
+      "MT+": 0.286,
+      "TPQJ3": 0.207,
+      "V8": 0.225,
+      "STS": 0.412,
+      "IFG": 0.189
+    },
+    "Older": {
+      "V4": 0.256,
+      "MT+": 0.363,
+      "TPQJ3": 0.209,
+      "V8": 0.299,
+      "STS": 0.395,
+      "IFG": 0.43
+    }
+  },
+  "audio_insights": {
+    "Gen Z": [
+      {
+        "rank": 1,
+        "timestamp": 4,
+        "text": "Now back to me.",
+        "intensity": 0.853
+      },
+      {
+        "rank": 2,
+        "timestamp": 18,
+        "text": "Look down. Back up.",
+        "intensity": 0.696
+      },
+      {
+        "rank": 3,
+        "timestamp": 22,
+        "text": "With the man your man could smell like.",
+        "intensity": 0.63
+      }
+    ],
+    "Adults": [
+      {
+        "rank": 1,
+        "timestamp": 2,
+        "text": "Look at your man.",
+        "intensity": 0.867
+      },
+      {
+        "rank": 2,
+        "timestamp": 8,
+        "text": "Now BACK to me.",
+        "intensity": 0.669
+      },
+      {
+        "rank": 3,
+        "timestamp": 25,
+        "text": "What's in your hand? Tickets to that thing you love.",
+        "intensity": 0.677
+      }
+    ],
+    "Kids": [
+      {
+        "rank": 1,
+        "timestamp": 15,
+        "text": "...he could smell like he's me.",
+        "intensity": 0.746
+      },
+      {
+        "rank": 2,
+        "timestamp": 25,
+        "text": "What's in your hand? Tickets to that thing you love.",
+        "intensity": 0.801
+      },
+      {
+        "rank": 3,
+        "timestamp": 31,
+        "text": "I'm on a horse.",
+        "intensity": 0.876
+      }
+    ],
+    "Older": [
+      {
+        "rank": 1,
+        "timestamp": 8,
+        "text": "Now BACK to me.",
+        "intensity": 0.684
+      },
+      {
+        "rank": 2,
+        "timestamp": 12,
+        "text": "But if he stopped using lady-scented body wash...",
+        "intensity": 0.748
+      },
+      {
+        "rank": 3,
+        "timestamp": 29,
+        "text": "Anything is possible when your man smells like Old Spice.",
+        "intensity": 0.794
+      }
+    ]
+  },
+  "transcript": [
+    {
+      "time": 0,
+      "text": "Hello, ladies.",
+      "event": "Hook \u2014 direct address"
+    },
+    {
+      "time": 2,
+      "text": "Look at your man.",
+      "event": "Attention redirect"
+    },
+    {
+      "time": 4,
+      "text": "Now back to me.",
+      "event": "Re-engagement"
+    },
+    {
+      "time": 6,
+      "text": "Now back at your man.",
+      "event": "Pattern establish"
+    },
+    {
+      "time": 8,
+      "text": "Now BACK to me.",
+      "event": "Pattern break \u2014 emphasis"
+    },
+    {
+      "time": 10,
+      "text": "Sadly, he isn't me.",
+      "event": "Emotional contrast"
+    },
+    {
+      "time": 12,
+      "text": "But if he stopped using lady-scented body wash...",
+      "event": "Problem statement"
+    },
+    {
+      "time": 15,
+      "text": "...he could smell like he's me.",
+      "event": "Product promise \u2014 Limbic spike"
+    },
+    {
+      "time": 18,
+      "text": "Look down. Back up.",
+      "event": "Scene transition"
+    },
+    {
+      "time": 20,
+      "text": "Where are you? You're on a boat.",
+      "event": "Surprise \u2014 Ventral Attention peak"
+    },
+    {
+      "time": 22,
+      "text": "With the man your man could smell like.",
+      "event": "Brand reinforcement"
+    },
+    {
+      "time": 25,
+      "text": "What's in your hand? Tickets to that thing you love.",
+      "event": "Reward \u2014 NAcc spike"
+    },
+    {
+      "time": 27,
+      "text": "Look again \u2014 the tickets are now diamonds.",
+      "event": "Surprise escalation"
+    },
+    {
+      "time": 29,
+      "text": "Anything is possible when your man smells like Old Spice.",
+      "event": "CTA \u2014 brand encoding"
+    },
+    {
+      "time": 31,
+      "text": "I'm on a horse.",
+      "event": "Final hook \u2014 memory anchor"
+    }
+  ],
+  "metadata": {
+    "duration_seconds": 32,
+    "top_demographic": "Gen Z (13\u201324)",
+    "model": "TRIBE v2 + Rewire Pipeline"
+  }
+}

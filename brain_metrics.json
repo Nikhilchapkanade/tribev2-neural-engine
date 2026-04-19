@@ -1,0 +1,107 @@
+[
+    {
+        "timestamp_seconds": 0.0,
+        "ventral_attention_zscore": 0.204,
+        "limbic_zscore": -0.142
+    },
+    {
+        "timestamp_seconds": 0.48,
+        "ventral_attention_zscore": 0.114,
+        "limbic_zscore": 0.107
+    },
+    {
+        "timestamp_seconds": 0.96,
+        "ventral_attention_zscore": 0.435,
+        "limbic_zscore": 0.317
+    },
+    {
+        "timestamp_seconds": 1.44,
+        "ventral_attention_zscore": 0.51,
+        "limbic_zscore": 0.449
+    },
+    {
+        "timestamp_seconds": 1.92,
+        "ventral_attention_zscore": 0.486,
+        "limbic_zscore": 0.582
+    },
+    {
+        "timestamp_seconds": 2.4,
+        "ventral_attention_zscore": 0.452,
+        "limbic_zscore": 0.612
+    },
+    {
+        "timestamp_seconds": 2.88,
+        "ventral_attention_zscore": 0.36,
+        "limbic_zscore": 0.646
+    },
+    {
+        "timestamp_seconds": 3.36,
+        "ventral_attention_zscore": 0.385,
+        "limbic_zscore": 0.412
+    },
+    {
+        "timestamp_seconds": 3.84,
+        "ventral_attention_zscore": 0.466,
+        "limbic_zscore": 0.365
+    },
+    {
+        "timestamp_seconds": 4.32,
+        "ventral_attention_zscore": 0.339,
+        "limbic_zscore": 0.361
+    },
+    {
+        "timestamp_seconds": 4.8,
+        "ventral_attention_zscore": 0.266,
+        "limbic_zscore": 0.309
+    },
+    {
+        "timestamp_seconds": 5.28,
+        "ventral_attention_zscore": 0.286,
+        "limbic_zscore": 0.589
+    },
+    {
+        "timestamp_seconds": 5.76,
+        "ventral_attention_zscore": 0.298,
+        "limbic_zscore": 0.7
+    },
+    {
+        "timestamp_seconds": 6.24,
+        "ventral_attention_zscore": 0.215,
+        "limbic_zscore": 0.917
+    },
+    {
+        "timestamp_seconds": 6.72,
+        "ventral_attention_zscore": 0.247,
+        "limbic_zscore": 0.622
+    },
+    {
+        "timestamp_seconds": 7.2,
+        "ventral_attention_zscore": 0.396,
+        "limbic_zscore": 0.478
+    },
+    {
+        "timestamp_seconds": 7.68,
+        "ventral_attention_zscore": 0.386,
+        "limbic_zscore": 0.212
+    },
+    {
+        "timestamp_seconds": 8.16,
+        "ventral_attention_zscore": 0.432,
+        "limbic_zscore": -0.103
+    },
+    {
+        "timestamp_seconds": 8.64,
+        "ventral_attention_zscore": 0.572,
+        "limbic_zscore": -0.061
+    },
+    {
+        "timestamp_seconds": 9.12,
+        "ventral_attention_zscore": 0.515,
+        "limbic_zscore": -0.112
+    },
+    {
+        "timestamp_seconds": 9.6,
+        "ventral_attention_zscore": 0.473,
+        "limbic_zscore": -0.01
+    }
+]

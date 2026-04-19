@@ -1,0 +1,1142 @@
+[
+  {
+    "timestamp_seconds": 0.0,
+    "networks": {
+      "visual": {
+        "activation": 0.7647,
+        "marketing_label": "Visual Salience"
+      },
+      "somatomotor": {
+        "activation": 0.1237,
+        "marketing_label": "Physical Response"
+      },
+      "dorsal_attention": {
+        "activation": 0.5143,
+        "marketing_label": "Sustained Attention"
+      },
+      "ventral_attention": {
+        "activation": 0.1748,
+        "marketing_label": "Hook / Surprise"
+      },
+      "limbic": {
+        "activation": 0.3173,
+        "marketing_label": "Emotional Resonance"
+      },
+      "frontoparietal": {
+        "activation": 0.4419,
+        "marketing_label": "Brand Recall"
+      },
+      "default_mode": {
+        "activation": 0.175,
+        "marketing_label": "Mind Wandering"
+      }
+    },
+    "global_mean": 0.3588,
+    "peak_activation": 0.7647,
+    "engagement_score": 0.246,
+    "hook_emotion_product": 0.0555,
+    "hemisphere_asymmetry": 0.2669
+  },
+  {
+    "timestamp_seconds": 1.0,
+    "networks": {
+      "visual": {
+        "activation": 0.8817,
+        "marketing_label": "Visual Salience"
+      },
+      "somatomotor": {
+        "activation": 0.09,
+        "marketing_label": "Physical Response"
+      },
+      "dorsal_attention": {
+        "activation": 0.5732,
+        "marketing_label": "Sustained Attention"
+      },
+      "ventral_attention": {
+        "activation": 0.9931,
+        "marketing_label": "Hook / Surprise"
+      },
+      "limbic": {
+        "activation": 0.4581,
+        "marketing_label": "Emotional Resonance"
+      },
+      "frontoparietal": {
+        "activation": 0.4182,
+        "marketing_label": "Brand Recall"
+      },
+      "default_mode": {
+        "activation": 0.1157,
+        "marketing_label": "Mind Wandering"
+      }
+    },
+    "global_mean": 0.5043,
+    "peak_activation": 0.9931,
+    "engagement_score": 0.7256,
+    "hook_emotion_product": 0.4549,
+    "hemisphere_asymmetry": 0.3025
+  },
+  {
+    "timestamp_seconds": 2.0,
+    "networks": {
+      "visual": {
+        "activation": 0.9093,
+        "marketing_label": "Visual Salience"
+      },
+      "somatomotor": {
+        "activation": 0.4261,
+        "marketing_label": "Physical Response"
+      },
+      "dorsal_attention": {
+        "activation": 0.5196,
+        "marketing_label": "Sustained Attention"
+      },
+      "ventral_attention": {
+        "activation": 1.0324,
+        "marketing_label": "Hook / Surprise"
+      },
+      "limbic": {
+        "activation": 0.4334,
+        "marketing_label": "Emotional Resonance"
+      },
+      "frontoparietal": {
+        "activation": 0.3393,
+        "marketing_label": "Brand Recall"
+      },
+      "default_mode": {
+        "activation": 0.1072,
+        "marketing_label": "Mind Wandering"
+      }
+    },
+    "global_mean": 0.5382,
+    "peak_activation": 1.0324,
+    "engagement_score": 0.7329,
+    "hook_emotion_product": 0.4475,
+    "hemisphere_asymmetry": 0.2321
+  },
+  {
+    "timestamp_seconds": 3.0,
+    "networks": {
+      "visual": {
+        "activation": 0.9387,
+        "marketing_label": "Visual Salience"
+      },
+      "somatomotor": {
+        "activation": 0.3576,
+        "marketing_label": "Physical Response"
+      },
+      "dorsal_attention": {
+        "activation": 0.8361,
+        "marketing_label": "Sustained Attention"
+      },
+      "ventral_attention": {
+        "activation": 1.0762,
+        "marketing_label": "Hook / Surprise"
+      },
+      "limbic": {
+        "activation": 0.4482,
+        "marketing_label": "Emotional Resonance"
+      },
+      "frontoparietal": {
+        "activation": 0.33,
+        "marketing_label": "Brand Recall"
+      },
+      "default_mode": {
+        "activation": 0.1693,
+        "marketing_label": "Mind Wandering"
+      }
+    },
+    "global_mean": 0.5937,
+    "peak_activation": 1.0762,
+    "engagement_score": 0.7622,
+    "hook_emotion_product": 0.4823,
+    "hemisphere_asymmetry": 0.1607
+  },
+  {
+    "timestamp_seconds": 4.0,
+    "networks": {
+      "visual": {
+        "activation": 1.0,
+        "marketing_label": "Visual Salience"
+      },
+      "somatomotor": {
+        "activation": 0.4315,
+        "marketing_label": "Physical Response"
+      },
+      "dorsal_attention": {
+        "activation": 0.8235,
+        "marketing_label": "Sustained Attention"
+      },
+      "ventral_attention": {
+        "activation": 0.1383,
+        "marketing_label": "Hook / Surprise"
+      },
+      "limbic": {
+        "activation": 0.5851,
+        "marketing_label": "Emotional Resonance"
+      },
+      "frontoparietal": {
+        "activation": 0.282,
+        "marketing_label": "Brand Recall"
+      },
+      "default_mode": {
+        "activation": 0.1411,
+        "marketing_label": "Mind Wandering"
+      }
+    },
+    "global_mean": 0.4859,
+    "peak_activation": 1.0,
+    "engagement_score": 0.3617,
+    "hook_emotion_product": 0.0809,
+    "hemisphere_asymmetry": 0.1409
+  },
+  {
+    "timestamp_seconds": 5.0,
+    "networks": {
+      "visual": {
+        "activation": 0.7012,
+        "marketing_label": "Visual Salience"
+      },
+      "somatomotor": {
+        "activation": 0.2419,
+        "marketing_label": "Physical Response"
+      },
+      "dorsal_attention": {
+        "activation": 0.7593,
+        "marketing_label": "Sustained Attention"
+      },
+      "ventral_attention": {
+        "activation": 0.1383,
+        "marketing_label": "Hook / Surprise"
+      },
+      "limbic": {
+        "activation": 0.5682,
+        "marketing_label": "Emotional Resonance"
+      },
+      "frontoparietal": {
+        "activation": 0.1899,
+        "marketing_label": "Brand Recall"
+      },
+      "default_mode": {
+        "activation": 0.3786,
+        "marketing_label": "Mind Wandering"
+      }
+    },
+    "global_mean": 0.4253,
+    "peak_activation": 0.7593,
+    "engagement_score": 0.3532,
+    "hook_emotion_product": 0.0786,
+    "hemisphere_asymmetry": -0.1887
+  },
+  {
+    "timestamp_seconds": 6.0,
+    "networks": {
+      "visual": {
+        "activation": 0.5407,
+        "marketing_label": "Visual Salience"
+      },
+      "somatomotor": {
+        "activation": 0.1565,
+        "marketing_label": "Physical Response"
+      },
+      "dorsal_attention": {
+        "activation": 0.7983,
+        "marketing_label": "Sustained Attention"
+      },
+      "ventral_attention": {
+        "activation": 0.229,
+        "marketing_label": "Hook / Surprise"
+      },
+      "limbic": {
+        "activation": 0.6905,
+        "marketing_label": "Emotional Resonance"
+      },
+      "frontoparietal": {
+        "activation": 0.2434,
+        "marketing_label": "Brand Recall"
+      },
+      "default_mode": {
+        "activation": 0.3689,
+        "marketing_label": "Mind Wandering"
+      }
+    },
+    "global_mean": 0.4325,
+    "peak_activation": 0.7983,
+    "engagement_score": 0.4597,
+    "hook_emotion_product": 0.1581,
+    "hemisphere_asymmetry": -0.1256
+  },
+  {
+    "timestamp_seconds": 7.0,
+    "networks": {
+      "visual": {
+        "activation": 0.4836,
+        "marketing_label": "Visual Salience"
+      },
+      "somatomotor": {
+        "activation": 0.1767,
+        "marketing_label": "Physical Response"
+      },
+      "dorsal_attention": {
+        "activation": 0.7567,
+        "marketing_label": "Sustained Attention"
+      },
+      "ventral_attention": {
+        "activation": 0.1884,
+        "marketing_label": "Hook / Surprise"
+      },
+      "limbic": {
+        "activation": 0.6659,
+        "marketing_label": "Emotional Resonance"
+      },
+      "frontoparietal": {
+        "activation": 0.1434,
+        "marketing_label": "Brand Recall"
+      },
+      "default_mode": {
+        "activation": 0.3471,
+        "marketing_label": "Mind Wandering"
+      }
+    },
+    "global_mean": 0.3945,
+    "peak_activation": 0.7567,
+    "engagement_score": 0.4271,
+    "hook_emotion_product": 0.1254,
+    "hemisphere_asymmetry": -0.2036
+  },
+  {
+    "timestamp_seconds": 8.0,
+    "networks": {
+      "visual": {
+        "activation": 0.3357,
+        "marketing_label": "Visual Salience"
+      },
+      "somatomotor": {
+        "activation": 0.2013,
+        "marketing_label": "Physical Response"
+      },
+      "dorsal_attention": {
+        "activation": 0.6995,
+        "marketing_label": "Sustained Attention"
+      },
+      "ventral_attention": {
+        "activation": 0.5265,
+        "marketing_label": "Hook / Surprise"
+      },
+      "limbic": {
+        "activation": 1.2,
+        "marketing_label": "Emotional Resonance"
+      },
+      "frontoparietal": {
+        "activation": 0.041,
+        "marketing_label": "Brand Recall"
+      },
+      "default_mode": {
+        "activation": 0.1161,
+        "marketing_label": "Mind Wandering"
+      }
+    },
+    "global_mean": 0.4457,
+    "peak_activation": 1.2,
+    "engagement_score": 0.8633,
+    "hook_emotion_product": 0.6318,
+    "hemisphere_asymmetry": -0.0751
+  },
+  {
+    "timestamp_seconds": 9.0,
+    "networks": {
+      "visual": {
+        "activation": 0.1818,
+        "marketing_label": "Visual Salience"
+      },
+      "somatomotor": {
+        "activation": 0.1849,
+        "marketing_label": "Physical Response"
+      },
+      "dorsal_attention": {
+        "activation": 0.6382,
+        "marketing_label": "Sustained Attention"
+      },
+      "ventral_attention": {
+        "activation": 0.5771,
+        "marketing_label": "Hook / Surprise"
+      },
+      "limbic": {
+        "activation": 1.2,
+        "marketing_label": "Emotional Resonance"
+      },
+      "frontoparietal": {
+        "activation": 0.09,
+        "marketing_label": "Brand Recall"
+      },
+      "default_mode": {
+        "activation": 0.0894,
+        "marketing_label": "Mind Wandering"
+      }
+    },
+    "global_mean": 0.4231,
+    "peak_activation": 1.2,
+    "engagement_score": 0.8886,
+    "hook_emotion_product": 0.6926,
+    "hemisphere_asymmetry": 0.0006
+  },
+  {
+    "timestamp_seconds": 10.0,
+    "networks": {
+      "visual": {
+        "activation": 0.1566,
+        "marketing_label": "Visual Salience"
+      },
+      "somatomotor": {
+        "activation": 0.1522,
+        "marketing_label": "Physical Response"
+      },
+      "dorsal_attention": {
+        "activation": 0.5371,
+        "marketing_label": "Sustained Attention"
+      },
+      "ventral_attention": {
+        "activation": 0.1268,
+        "marketing_label": "Hook / Surprise"
+      },
+      "limbic": {
+        "activation": 1.2,
+        "marketing_label": "Emotional Resonance"
+      },
+      "frontoparietal": {
+        "activation": 0.0123,
+        "marketing_label": "Brand Recall"
+      },
+      "default_mode": {
+        "activation": 0.1321,
+        "marketing_label": "Mind Wandering"
+      }
+    },
+    "global_mean": 0.331,
+    "peak_activation": 1.2,
+    "engagement_score": 0.6634,
+    "hook_emotion_product": 0.1522,
+    "hemisphere_asymmetry": -0.1199
+  },
+  {
+    "timestamp_seconds": 11.0,
+    "networks": {
+      "visual": {
+        "activation": 0.1791,
+        "marketing_label": "Visual Salience"
+      },
+      "somatomotor": {
+        "activation": 0.1965,
+        "marketing_label": "Physical Response"
+      },
+      "dorsal_attention": {
+        "activation": 0.5233,
+        "marketing_label": "Sustained Attention"
+      },
+      "ventral_attention": {
+        "activation": 0.1267,
+        "marketing_label": "Hook / Surprise"
+      },
+      "limbic": {
+        "activation": 1.2,
+        "marketing_label": "Emotional Resonance"
+      },
+      "frontoparietal": {
+        "activation": 0.0837,
+        "marketing_label": "Brand Recall"
+      },
+      "default_mode": {
+        "activation": 0.1843,
+        "marketing_label": "Mind Wandering"
+      }
+    },
+    "global_mean": 0.3562,
+    "peak_activation": 1.2,
+    "engagement_score": 0.6634,
+    "hook_emotion_product": 0.1521,
+    "hemisphere_asymmetry": -0.1006
+  },
+  {
+    "timestamp_seconds": 12.0,
+    "networks": {
+      "visual": {
+        "activation": 0.1089,
+        "marketing_label": "Visual Salience"
+      },
+      "somatomotor": {
+        "activation": 0.1554,
+        "marketing_label": "Physical Response"
+      },
+      "dorsal_attention": {
+        "activation": 0.4757,
+        "marketing_label": "Sustained Attention"
+      },
+      "ventral_attention": {
+        "activation": 0.1621,
+        "marketing_label": "Hook / Surprise"
+      },
+      "limbic": {
+        "activation": 1.2,
+        "marketing_label": "Emotional Resonance"
+      },
+      "frontoparietal": {
+        "activation": 0.1127,
+        "marketing_label": "Brand Recall"
+      },
+      "default_mode": {
+        "activation": 0.1586,
+        "marketing_label": "Mind Wandering"
+      }
+    },
+    "global_mean": 0.3391,
+    "peak_activation": 1.2,
+    "engagement_score": 0.681,
+    "hook_emotion_product": 0.1945,
+    "hemisphere_asymmetry": -0.0458
+  },
+  {
+    "timestamp_seconds": 13.0,
+    "networks": {
+      "visual": {
+        "activation": 0.2408,
+        "marketing_label": "Visual Salience"
+      },
+      "somatomotor": {
+        "activation": 0.1918,
+        "marketing_label": "Physical Response"
+      },
+      "dorsal_attention": {
+        "activation": 0.4117,
+        "marketing_label": "Sustained Attention"
+      },
+      "ventral_attention": {
+        "activation": 0.0543,
+        "marketing_label": "Hook / Surprise"
+      },
+      "limbic": {
+        "activation": 1.2,
+        "marketing_label": "Emotional Resonance"
+      },
+      "frontoparietal": {
+        "activation": 0.0601,
+        "marketing_label": "Brand Recall"
+      },
+      "default_mode": {
+        "activation": 0.1002,
+        "marketing_label": "Mind Wandering"
+      }
+    },
+    "global_mean": 0.3227,
+    "peak_activation": 1.2,
+    "engagement_score": 0.6272,
+    "hook_emotion_product": 0.0652,
+    "hemisphere_asymmetry": -0.0401
+  },
+  {
+    "timestamp_seconds": 14.0,
+    "networks": {
+      "visual": {
+        "activation": 0.1191,
+        "marketing_label": "Visual Salience"
+      },
+      "somatomotor": {
+        "activation": 0.138,
+        "marketing_label": "Physical Response"
+      },
+      "dorsal_attention": {
+        "activation": 0.399,
+        "marketing_label": "Sustained Attention"
+      },
+      "ventral_attention": {
+        "activation": 0.0638,
+        "marketing_label": "Hook / Surprise"
+      },
+      "limbic": {
+        "activation": 1.2,
+        "marketing_label": "Emotional Resonance"
+      },
+      "frontoparietal": {
+        "activation": 0.1686,
+        "marketing_label": "Brand Recall"
+      },
+      "default_mode": {
+        "activation": 0.1569,
+        "marketing_label": "Mind Wandering"
+      }
+    },
+    "global_mean": 0.3208,
+    "peak_activation": 1.2,
+    "engagement_score": 0.6319,
+    "hook_emotion_product": 0.0765,
+    "hemisphere_asymmetry": 0.0116
+  },
+  {
+    "timestamp_seconds": 15.0,
+    "networks": {
+      "visual": {
+        "activation": 0.6512,
+        "marketing_label": "Visual Salience"
+      },
+      "somatomotor": {
+        "activation": 0.1981,
+        "marketing_label": "Physical Response"
+      },
+      "dorsal_attention": {
+        "activation": 0.0924,
+        "marketing_label": "Sustained Attention"
+      },
+      "ventral_attention": {
+        "activation": 0.8719,
+        "marketing_label": "Hook / Surprise"
+      },
+      "limbic": {
+        "activation": 1.2,
+        "marketing_label": "Emotional Resonance"
+      },
+      "frontoparietal": {
+        "activation": 0.4917,
+        "marketing_label": "Brand Recall"
+      },
+      "default_mode": {
+        "activation": 0.1654,
+        "marketing_label": "Mind Wandering"
+      }
+    },
+    "global_mean": 0.5244,
+    "peak_activation": 1.2,
+    "engagement_score": 1.0359,
+    "hook_emotion_product": 1.0463,
+    "hemisphere_asymmetry": 0.3263
+  },
+  {
+    "timestamp_seconds": 16.0,
+    "networks": {
+      "visual": {
+        "activation": 0.7305,
+        "marketing_label": "Visual Salience"
+      },
+      "somatomotor": {
+        "activation": 0.1125,
+        "marketing_label": "Physical Response"
+      },
+      "dorsal_attention": {
+        "activation": 0.133,
+        "marketing_label": "Sustained Attention"
+      },
+      "ventral_attention": {
+        "activation": 0.8494,
+        "marketing_label": "Hook / Surprise"
+      },
+      "limbic": {
+        "activation": 0.7376,
+        "marketing_label": "Emotional Resonance"
+      },
+      "frontoparietal": {
+        "activation": 0.5583,
+        "marketing_label": "Brand Recall"
+      },
+      "default_mode": {
+        "activation": 0.1146,
+        "marketing_label": "Mind Wandering"
+      }
+    },
+    "global_mean": 0.4623,
+    "peak_activation": 0.8494,
+    "engagement_score": 0.7935,
+    "hook_emotion_product": 0.6265,
+    "hemisphere_asymmetry": 0.4436
+  },
+  {
+    "timestamp_seconds": 17.0,
+    "networks": {
+      "visual": {
+        "activation": 0.8158,
+        "marketing_label": "Visual Salience"
+      },
+      "somatomotor": {
+        "activation": 0.1097,
+        "marketing_label": "Physical Response"
+      },
+      "dorsal_attention": {
+        "activation": 0.0571,
+        "marketing_label": "Sustained Attention"
+      },
+      "ventral_attention": {
+        "activation": 0.9157,
+        "marketing_label": "Hook / Surprise"
+      },
+      "limbic": {
+        "activation": 0.7372,
+        "marketing_label": "Emotional Resonance"
+      },
+      "frontoparietal": {
+        "activation": 0.6531,
+        "marketing_label": "Brand Recall"
+      },
+      "default_mode": {
+        "activation": 0.1561,
+        "marketing_label": "Mind Wandering"
+      }
+    },
+    "global_mean": 0.4921,
+    "peak_activation": 0.9157,
+    "engagement_score": 0.8264,
+    "hook_emotion_product": 0.675,
+    "hemisphere_asymmetry": 0.497
+  },
+  {
+    "timestamp_seconds": 18.0,
+    "networks": {
+      "visual": {
+        "activation": 0.9128,
+        "marketing_label": "Visual Salience"
+      },
+      "somatomotor": {
+        "activation": 0.1266,
+        "marketing_label": "Physical Response"
+      },
+      "dorsal_attention": {
+        "activation": 0.0647,
+        "marketing_label": "Sustained Attention"
+      },
+      "ventral_attention": {
+        "activation": 0.8546,
+        "marketing_label": "Hook / Surprise"
+      },
+      "limbic": {
+        "activation": 0.6439,
+        "marketing_label": "Emotional Resonance"
+      },
+      "frontoparietal": {
+        "activation": 0.6175,
+        "marketing_label": "Brand Recall"
+      },
+      "default_mode": {
+        "activation": 0.1523,
+        "marketing_label": "Mind Wandering"
+      }
+    },
+    "global_mean": 0.4818,
+    "peak_activation": 0.9128,
+    "engagement_score": 0.7492,
+    "hook_emotion_product": 0.5502,
+    "hemisphere_asymmetry": 0.4651
+  },
+  {
+    "timestamp_seconds": 19.0,
+    "networks": {
+      "visual": {
+        "activation": 0.8475,
+        "marketing_label": "Visual Salience"
+      },
+      "somatomotor": {
+        "activation": 0.048,
+        "marketing_label": "Physical Response"
+      },
+      "dorsal_attention": {
+        "activation": 0.0672,
+        "marketing_label": "Sustained Attention"
+      },
+      "ventral_attention": {
+        "activation": 0.0794,
+        "marketing_label": "Hook / Surprise"
+      },
+      "limbic": {
+        "activation": 0.4945,
+        "marketing_label": "Emotional Resonance"
+      },
+      "frontoparietal": {
+        "activation": 0.642,
+        "marketing_label": "Brand Recall"
+      },
+      "default_mode": {
+        "activation": 0.1043,
+        "marketing_label": "Mind Wandering"
+      }
+    },
+    "global_mean": 0.3261,
+    "peak_activation": 0.8475,
+    "engagement_score": 0.2869,
+    "hook_emotion_product": 0.0393,
+    "hemisphere_asymmetry": 0.5377
+  },
+  {
+    "timestamp_seconds": 20.0,
+    "networks": {
+      "visual": {
+        "activation": 0.68,
+        "marketing_label": "Visual Salience"
+      },
+      "somatomotor": {
+        "activation": 0.0749,
+        "marketing_label": "Physical Response"
+      },
+      "dorsal_attention": {
+        "activation": 0.0199,
+        "marketing_label": "Sustained Attention"
+      },
+      "ventral_attention": {
+        "activation": 0.2233,
+        "marketing_label": "Hook / Surprise"
+      },
+      "limbic": {
+        "activation": 0.8155,
+        "marketing_label": "Emotional Resonance"
+      },
+      "frontoparietal": {
+        "activation": 0.8731,
+        "marketing_label": "Brand Recall"
+      },
+      "default_mode": {
+        "activation": 0.1643,
+        "marketing_label": "Mind Wandering"
+      }
+    },
+    "global_mean": 0.4073,
+    "peak_activation": 0.8731,
+    "engagement_score": 0.5194,
+    "hook_emotion_product": 0.1821,
+    "hemisphere_asymmetry": 0.7088
+  },
+  {
+    "timestamp_seconds": 21.0,
+    "networks": {
+      "visual": {
+        "activation": 0.6592,
+        "marketing_label": "Visual Salience"
+      },
+      "somatomotor": {
+        "activation": 0.0914,
+        "marketing_label": "Physical Response"
+      },
+      "dorsal_attention": {
+        "activation": 0.1316,
+        "marketing_label": "Sustained Attention"
+      },
+      "ventral_attention": {
+        "activation": 0.1387,
+        "marketing_label": "Hook / Surprise"
+      },
+      "limbic": {
+        "activation": 0.7294,
+        "marketing_label": "Emotional Resonance"
+      },
+      "frontoparietal": {
+        "activation": 0.902,
+        "marketing_label": "Brand Recall"
+      },
+      "default_mode": {
+        "activation": 0.1724,
+        "marketing_label": "Mind Wandering"
+      }
+    },
+    "global_mean": 0.4035,
+    "peak_activation": 0.902,
+    "engagement_score": 0.4341,
+    "hook_emotion_product": 0.1012,
+    "hemisphere_asymmetry": 0.7296
+  },
+  {
+    "timestamp_seconds": 22.0,
+    "networks": {
+      "visual": {
+        "activation": 0.6294,
+        "marketing_label": "Visual Salience"
+      },
+      "somatomotor": {
+        "activation": 0.0,
+        "marketing_label": "Physical Response"
+      },
+      "dorsal_attention": {
+        "activation": 0.1789,
+        "marketing_label": "Sustained Attention"
+      },
+      "ventral_attention": {
+        "activation": 0.1534,
+        "marketing_label": "Hook / Surprise"
+      },
+      "limbic": {
+        "activation": 0.6664,
+        "marketing_label": "Emotional Resonance"
+      },
+      "frontoparietal": {
+        "activation": 0.9451,
+        "marketing_label": "Brand Recall"
+      },
+      "default_mode": {
+        "activation": 0.1933,
+        "marketing_label": "Mind Wandering"
+      }
+    },
+    "global_mean": 0.3952,
+    "peak_activation": 0.9451,
+    "engagement_score": 0.4099,
+    "hook_emotion_product": 0.1022,
+    "hemisphere_asymmetry": 0.7518
+  },
+  {
+    "timestamp_seconds": 23.0,
+    "networks": {
+      "visual": {
+        "activation": 0.4204,
+        "marketing_label": "Visual Salience"
+      },
+      "somatomotor": {
+        "activation": 0.0307,
+        "marketing_label": "Physical Response"
+      },
+      "dorsal_attention": {
+        "activation": 0.3247,
+        "marketing_label": "Sustained Attention"
+      },
+      "ventral_attention": {
+        "activation": 0.0788,
+        "marketing_label": "Hook / Surprise"
+      },
+      "limbic": {
+        "activation": 0.6737,
+        "marketing_label": "Emotional Resonance"
+      },
+      "frontoparietal": {
+        "activation": 0.9621,
+        "marketing_label": "Brand Recall"
+      },
+      "default_mode": {
+        "activation": 0.1922,
+        "marketing_label": "Mind Wandering"
+      }
+    },
+    "global_mean": 0.3832,
+    "peak_activation": 0.9621,
+    "engagement_score": 0.3763,
+    "hook_emotion_product": 0.0531,
+    "hemisphere_asymmetry": 0.7699
+  },
+  {
+    "timestamp_seconds": 24.0,
+    "networks": {
+      "visual": {
+        "activation": 0.2897,
+        "marketing_label": "Visual Salience"
+      },
+      "somatomotor": {
+        "activation": 0.0227,
+        "marketing_label": "Physical Response"
+      },
+      "dorsal_attention": {
+        "activation": 0.2715,
+        "marketing_label": "Sustained Attention"
+      },
+      "ventral_attention": {
+        "activation": 0.1228,
+        "marketing_label": "Hook / Surprise"
+      },
+      "limbic": {
+        "activation": 0.3537,
+        "marketing_label": "Emotional Resonance"
+      },
+      "frontoparietal": {
+        "activation": 0.9464,
+        "marketing_label": "Brand Recall"
+      },
+      "default_mode": {
+        "activation": 0.0949,
+        "marketing_label": "Mind Wandering"
+      }
+    },
+    "global_mean": 0.3002,
+    "peak_activation": 0.9464,
+    "engagement_score": 0.2383,
+    "hook_emotion_product": 0.0434,
+    "hemisphere_asymmetry": 0.8515
+  },
+  {
+    "timestamp_seconds": 25.0,
+    "networks": {
+      "visual": {
+        "activation": 0.1994,
+        "marketing_label": "Visual Salience"
+      },
+      "somatomotor": {
+        "activation": 0.0306,
+        "marketing_label": "Physical Response"
+      },
+      "dorsal_attention": {
+        "activation": 0.1953,
+        "marketing_label": "Sustained Attention"
+      },
+      "ventral_attention": {
+        "activation": 0.1555,
+        "marketing_label": "Hook / Surprise"
+      },
+      "limbic": {
+        "activation": 0.32,
+        "marketing_label": "Emotional Resonance"
+      },
+      "frontoparietal": {
+        "activation": 0.9428,
+        "marketing_label": "Brand Recall"
+      },
+      "default_mode": {
+        "activation": 0.5125,
+        "marketing_label": "Mind Wandering"
+      }
+    },
+    "global_mean": 0.3366,
+    "peak_activation": 0.9428,
+    "engagement_score": 0.2378,
+    "hook_emotion_product": 0.0498,
+    "hemisphere_asymmetry": 0.4303
+  },
+  {
+    "timestamp_seconds": 26.0,
+    "networks": {
+      "visual": {
+        "activation": 0.1909,
+        "marketing_label": "Visual Salience"
+      },
+      "somatomotor": {
+        "activation": 0.0,
+        "marketing_label": "Physical Response"
+      },
+      "dorsal_attention": {
+        "activation": 0.2343,
+        "marketing_label": "Sustained Attention"
+      },
+      "ventral_attention": {
+        "activation": 0.0925,
+        "marketing_label": "Hook / Surprise"
+      },
+      "limbic": {
+        "activation": 0.2259,
+        "marketing_label": "Emotional Resonance"
+      },
+      "frontoparietal": {
+        "activation": 0.3739,
+        "marketing_label": "Brand Recall"
+      },
+      "default_mode": {
+        "activation": 0.5706,
+        "marketing_label": "Mind Wandering"
+      }
+    },
+    "global_mean": 0.2412,
+    "peak_activation": 0.5706,
+    "engagement_score": 0.1592,
+    "hook_emotion_product": 0.0209,
+    "hemisphere_asymmetry": -0.1967
+  },
+  {
+    "timestamp_seconds": 27.0,
+    "networks": {
+      "visual": {
+        "activation": 0.1206,
+        "marketing_label": "Visual Salience"
+      },
+      "somatomotor": {
+        "activation": 0.0,
+        "marketing_label": "Physical Response"
+      },
+      "dorsal_attention": {
+        "activation": 0.2375,
+        "marketing_label": "Sustained Attention"
+      },
+      "ventral_attention": {
+        "activation": 0.1688,
+        "marketing_label": "Hook / Surprise"
+      },
+      "limbic": {
+        "activation": 0.2294,
+        "marketing_label": "Emotional Resonance"
+      },
+      "frontoparietal": {
+        "activation": 0.3869,
+        "marketing_label": "Brand Recall"
+      },
+      "default_mode": {
+        "activation": 0.5706,
+        "marketing_label": "Mind Wandering"
+      }
+    },
+    "global_mean": 0.2448,
+    "peak_activation": 0.5706,
+    "engagement_score": 0.1991,
+    "hook_emotion_product": 0.0387,
+    "hemisphere_asymmetry": -0.1836
+  },
+  {
+    "timestamp_seconds": 28.0,
+    "networks": {
+      "visual": {
+        "activation": 0.081,
+        "marketing_label": "Visual Salience"
+      },
+      "somatomotor": {
+        "activation": 0.0166,
+        "marketing_label": "Physical Response"
+      },
+      "dorsal_attention": {
+        "activation": 0.3721,
+        "marketing_label": "Sustained Attention"
+      },
+      "ventral_attention": {
+        "activation": 0.12,
+        "marketing_label": "Hook / Surprise"
+      },
+      "limbic": {
+        "activation": 0.2418,
+        "marketing_label": "Emotional Resonance"
+      },
+      "frontoparietal": {
+        "activation": 0.2683,
+        "marketing_label": "Brand Recall"
+      },
+      "default_mode": {
+        "activation": 0.5706,
+        "marketing_label": "Mind Wandering"
+      }
+    },
+    "global_mean": 0.2386,
+    "peak_activation": 0.5706,
+    "engagement_score": 0.1809,
+    "hook_emotion_product": 0.029,
+    "hemisphere_asymmetry": -0.3023
+  },
+  {
+    "timestamp_seconds": 29.0,
+    "networks": {
+      "visual": {
+        "activation": 0.1805,
+        "marketing_label": "Visual Salience"
+      },
+      "somatomotor": {
+        "activation": 0.0138,
+        "marketing_label": "Physical Response"
+      },
+      "dorsal_attention": {
+        "activation": 0.3904,
+        "marketing_label": "Sustained Attention"
+      },
+      "ventral_attention": {
+        "activation": 0.1354,
+        "marketing_label": "Hook / Surprise"
+      },
+      "limbic": {
+        "activation": 0.2581,
+        "marketing_label": "Emotional Resonance"
+      },
+      "frontoparietal": {
+        "activation": 0.3358,
+        "marketing_label": "Brand Recall"
+      },
+      "default_mode": {
+        "activation": 0.7041,
+        "marketing_label": "Mind Wandering"
+      }
+    },
+    "global_mean": 0.2883,
+    "peak_activation": 0.7041,
+    "engagement_score": 0.1968,
+    "hook_emotion_product": 0.035,
+    "hemisphere_asymmetry": -0.3683
+  }
+]
